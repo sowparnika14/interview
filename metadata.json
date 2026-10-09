@@ -1,0 +1,6 @@
+{
+  "name": "BubblePrep AI Mock Interview Coach",
+  "description": "Bubble-inspired AI mock interview platform featuring voice answers, real-time feedback, personalized improvement tips, daily streaks and graphs, interactive AI coach, and secure user history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
